@@ -1,0 +1,5 @@
+# PHPStorm
+.idea
+
+#Ansible
+*.retry
